@@ -4,7 +4,17 @@ import { comment } from "./data";
 
 function App() {
   return (
-    <div>
+    <div className="Cards">
+      <Comment
+        author={comment.author}
+        text={comment.text}
+        date={comment.date}
+      />
+      <Comment
+        author={comment.author}
+        text={comment.text}
+        date={comment.date}
+      />
       <Comment
         author={comment.author}
         text={comment.text}
