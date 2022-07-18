@@ -1,0 +1,12 @@
+.UserInfo{
+    width: 100px;
+    height:130px ;
+    background-color: orangered;
+    border: solid 1px black;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 30px;
+    
+
+}
